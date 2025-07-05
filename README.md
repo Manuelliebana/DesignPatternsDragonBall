@@ -13,19 +13,19 @@ Aplicación iOS desarrollada en Swift siguiendo el patrón **MVVM**. Consume la 
 ## 📱 Capturas de pantalla
 
 ### 1. Login
-![Pantalla de login](DesignPatterns/DesignPatterns/Resources/Screenshots/login.png)
+![Pantalla de login](DesignPatterns/Resources/Screenshots/login.png)
 
 ### 2. Lista de héroes
-![Lista de héroes](DesignPatterns/DesignPatterns/Resources/Screenshots/heroes.png)
+![Lista de héroes](DesignPatterns/Resources/Screenshots/heroes.png)
 
 ### 3. Detalle del héroe
-![Detalle del héroe](DesignPatterns/DesignPatterns/Resources/Screenshots/herodetail.png)
+![Detalle del héroe](DesignPatterns/Resources/Screenshots/herodetail.png)
 
 ### 4. Lista de transformaciones
-![Transformaciones](DesignPatterns/DesignPatterns/Resources/Screenshots/transformations.png)
+![Transformaciones](DesignPatterns/Resources/Screenshots/transformations.png)
 
 ### 5. Detalle de transformación
-![Detalle de transformación](DesignPatterns/DesignPatterns/Resources/Screenshots/transformationdetail.png)
+![Detalle de transformación](DesignPatterns/Resources/Screenshots/transformationdetail.png)
 
 ---
 
