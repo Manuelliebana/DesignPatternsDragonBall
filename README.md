@@ -35,7 +35,7 @@ Aplicación iOS desarrollada en Swift siguiendo el patrón **MVVM**. Consume la 
 - Listado de héroes con imágenes.
 - Detalle de héroe con botón para ver transformaciones.
 - Listado y detalle de transformaciones.
-- Navegación fluida y UI adaptable.
+- Navegación fluida y UI adaptable (Vista vertical y horizontal).
 - Manejo profesional de errores.
 - Tests unitarios de lógica de negocio y presentación.
 
