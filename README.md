@@ -4,7 +4,7 @@ Aplicación iOS desarrollada en Swift siguiendo el patrón **MVVM**. Consume la 
 
 ---
 
-## 🏗️ Arquitectura
+##  🏗️  Arquitectura
 
 - **MVVM**: Separación clara entre UI (ViewController), lógica de presentación (ViewModel) y modelos de dominio.
 
@@ -29,7 +29,7 @@ Aplicación iOS desarrollada en Swift siguiendo el patrón **MVVM**. Consume la 
 
 ---
 
-## 🚀 Características
+##  🚀  Características
 
 - Login seguro contra la API.
 - Listado de héroes con imágenes.
@@ -41,7 +41,7 @@ Aplicación iOS desarrollada en Swift siguiendo el patrón **MVVM**. Consume la 
 
 ---
 
-## 🧩 Estructura de carpetas
+##  🧩  Estructura de carpetas
 
 ```
 Domain/         # Modelos y UseCases
@@ -55,7 +55,7 @@ Tests/          # Tests unitarios y mocks
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+##  ▶️  Cómo ejecutar el proyecto
 
 1. Clona este repositorio en tu máquina local.
 2. Abre el archivo `DesignPatterns.xcodeproj` con Xcode.
@@ -68,7 +68,7 @@ Tests/          # Tests unitarios y mocks
 
 ---
 
-## 🧪 Testing
+##  🧪  Testing
 
 - Ejecuta los tests con `Cmd+U` en Xcode.
 - Cobertura en UseCases y ViewModels.
@@ -83,7 +83,7 @@ Tests/          # Tests unitarios y mocks
 
 ---
 
-## 👨‍💻 Autor
+##  👨‍💻  Autor
 
 Desarrollado por **Manuel Liebana**.
 
